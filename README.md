@@ -6,9 +6,7 @@
 Added a slash screen and app icon on the home page. When cards are tapped, flip animation occurs. Slide animation occurs when switching between cards.
 
 ### App Walk-though
-
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+![Week7 7 02 44 PM](https://user-images.githubusercontent.com/78508685/113460306-4982c480-93e6-11eb-982d-a81911be4ae8.gif)
 
 ## Required
 - [x] User should see the app icon 
